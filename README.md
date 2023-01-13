@@ -1,4 +1,4 @@
-### Co-Founder and President of Appccessibility Shox. 
+
 
 <!--
 **george-botros/george-botros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
