@@ -7,7 +7,7 @@ Otherwise, I'm...
 
 * ♟️ Trying to reclaim my middle school [chess](https://www.chess.com/member/georgebotros02) glory
 * 🧑‍🍳 Learning new recipes (I'm a bad cook, but my appetite drives me)
-* 🎥 Creating [YouTube videos](https://www.youtube.com/@dailypenn) for The Daily Pennsylvanian
+* 🎥 Creating [YouTube videos](https://www.youtube.com/@dailypenn) for _The Daily Pennsylvanian_
     
 ## 🚀 Some Cool Projects
 ### 🎬 Transcript Reader
