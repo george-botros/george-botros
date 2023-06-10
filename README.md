@@ -1,5 +1,5 @@
 
-# Hello! I'm [George](google.com) 👋
+# Hello! I'm <img src='Resources/Ge keys.gif' width='41' margin-top='10'/>orge👋
 
 I'm a passionate and creative computer science student at UPenn. I love coding, building cool projects, and exploring new technologies.
 
