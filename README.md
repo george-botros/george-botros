@@ -15,7 +15,7 @@ Enhance your video viewing experience! With this project, I developed a Safari e
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Transcript-Reader)
 
-### 🚀 Focus for YouTube
+### 📺 Focus for YouTube
 
 Unleash your focus powers! Behold, a Safari extension and app for macOS that eliminates unwanted distractions on YouTube. Say goodbye to irrelevant content and embarassing screensharing moments, and experience lightning-fast site speeds. It's your very own secret weapon for a seamless YouTube experience!
 
