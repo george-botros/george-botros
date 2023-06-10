@@ -15,21 +15,16 @@ Enhance your video viewing experience! With this project, I developed a Safari e
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Transcript-Reader)
 
-### 📺 Focus for YouTube
+### 🤖 Wiji 
 
-Unleash your focus powers! Behold, a Safari extension and app for macOS that eliminates unwanted distractions on YouTube. Say goodbye to irrelevant content and embarassing screensharing moments, and experience lightning-fast site speeds. It's your very own secret weapon for a seamless YouTube experience!
+Learn how to create a widget-style application, similar to Siri, on macOS. With Wiji, I've created an online tutorial that guides you through the process of crafting these dynamic and engaging apps.
 
-[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Focus-for-YouTube)
+[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/george-botros/Wiji)
 
 ### ⌨️ Keys for Safari
 Ready to level up your web browsing experience? With this Safari extension app for macOS and iPad, you'll enter a world where keyboard navigation reigns supreme. Dynamic shortcut keys generated on the fly will let you surf the web like a pro, with the world at your fingertips! 🖱️🔫
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Keys)
-
-### 🌟 InspoTab
-Who needs motivation when you can have demotivation? 😄 Introducing InspoTab, a unique Safari extension and app for macOS and iOS that adds a twist to your "new tab" page experience. Say goodbye to boring inspirational quotes and hello to funny demotivational quotes!
-
-[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/george-botros/InspoTab)
 
 ### ⚓ Battleship
 
@@ -37,11 +32,16 @@ Ahoy, matey! Prepare for an epic naval showdown with my GUI-based Battleship gam
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/george-botros/Battleship)
 
-### 🤖 Wiji 
+### 📺 Focus for YouTube
 
-Learn how to create a widget-style application, similar to Siri, on macOS. With Wiji, I've created an online tutorial that guides you through the process of crafting these dynamic and engaging apps.
+Unleash your focus powers! Behold, a Safari extension and app for macOS that eliminates unwanted distractions on YouTube. Say goodbye to irrelevant content and embarassing screensharing moments, and experience lightning-fast site speeds. It's your very own secret weapon for a seamless YouTube experience!
 
-[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/george-botros/Wiji)
+[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Focus-for-YouTube)
+
+### 🌟 InspoTab
+Who needs motivation when you can have demotivation? 😄 Introducing InspoTab, a unique Safari extension and app for macOS and iOS that adds a twist to your "new tab" page experience. Say goodbye to boring inspirational quotes and hello to funny demotivational quotes!
+
+[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/george-botros/InspoTab)
 
 ### 📖 Vocabulary Log
 
