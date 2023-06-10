@@ -1,23 +1,28 @@
 
-# Hello and Welcome! 👋
+# Hello! I'm [George](google.com) 👋
 
-I'm George, a passionate and creative computer science student studying at UPenn. I love coding, building cool projects, and exploring new technologies.
+I'm a passionate and creative computer science student at UPenn. I love coding, building cool projects, and exploring new technologies.
 
+Otherwise, I'm...
 
+* ♟️ Trying to reclaim my middle school [chess](https://www.chess.com/member/georgebotros02) glory
+* 🧑‍🍳 Learning new recipes (I'm a bad cook, but my appetite drives me)
+* 🎥 Creating [YouTube videos](https://www.youtube.com/@dailypenn) for The Daily Pennsylvanian
+    
 ## 🚀 Some Cool Projects
 ### 🎬 Transcript Reader
-Enhance your video viewing experience! With this project, I developed a Safari extension and an app for macOS and iPad that takes Safari's "reader mode" to a whole new level by extending it to video subtitles. Now, you can enjoy a comfortable reading experience while watching your favorite videos. But its usefulness extends beyond enabling users to focus on video content: Transcript Reader invites video watchers to select, search, copy, Quick note, and read ahead in the transcript. Popcorn not included!
+Enhance your video viewing experience! With this project, I developed a Safari extension app for macOS and iPad that takes Safari's "reader mode" to a whole new level by extending it to video subtitles. Now, you can enjoy a comfortable reading experience while watching your favorite videos. But its usefulness extends beyond enabling users to focus on video content: Transcript Reader invites video watchers to select, search, copy, Quick note, and read ahead in the transcript. Popcorn not included!
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Transcript-Reader)
 
 ### 🚀 Focus for YouTube
 
-Unleash your focus powers! Behold, a Safari extension and app for macOS that eliminates unwanted distractions on YouTube. Say goodbye to pesky ads and irrelevant content, and experience lightning-fast site speeds. It's your very own secret weapon for a seamless YouTube experience!
+Unleash your focus powers! Behold, a Safari extension and app for macOS that eliminates unwanted distractions on YouTube. Say goodbye to irrelevant content and embarassing screensharing moments, and experience lightning-fast site speeds. It's your very own secret weapon for a seamless YouTube experience!
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Focus-for-YouTube)
 
 ### ⌨️ Keys for Safari
-Unlock the hidden shortcuts of the web! With this Safari extension and app for macOS and iPad, you'll enter a world where keyboard navigation reigns supreme. Dynamic shortcut keys generated on the fly will guide you through the vast online landscape. Surf the web like a pro, with the power at your fingertips!
+Ready to level up your web browsing experience? With this Safari extension app for macOS and iPad, you'll enter a world where keyboard navigation reigns supreme. Dynamic shortcut keys generated on the fly will let you surf the web like a pro, with the world at your fingertips! 🖱️🔫
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/Keys)
 
@@ -40,15 +45,16 @@ Learn how to create a widget-style application, similar to Siri, on macOS. With 
 
 ### 📖 Vocabulary Log
 
-Expand your lexicon like never before! Introducing  Vocabulary Log, a Safari extension and accompanying app for macOS. Say goodbye to forgotten words by logging unfamiliar terms and automatically storing their context and definitions. Enhance your language skills one word at a time!
+Word up! Introducing Vocabulary Log, a Safari extension and accompanying app for macOS. With Vocabulary Log, you can effortlessly log unfamiliar words as you encounter them. Gone are the days of scrambling for a pen and paper or losing track of that intriguing word you stumbled upon. Enhance your language skills one word at a time!
 
 [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Appccessibility-Shox/VocabularyLog)
+
 
 #### Feel free to explore these projects and dive into the code. If you have any questions, collaboration ideas, or just want to connect, don't hesitate to reach out.
 
 ## 🔗 Connect
 ✉️ gbotros@seas.upenn.edu
 
-💼 https://linkedin.com/in/georgebotros02
+💼 [LinkedIn](https://linkedin.com/in/georgebotros02)
 
-📸 https://www.instagram.com/georgebotros1/
+📸 [Instagram](https://www.instagram.com/georgebotros1/)
