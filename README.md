@@ -1,6 +1,6 @@
+# Hello! I'm George 👋
 
-# Hello! I'm <img src='Resources/Ge keys.gif' width='37' margin-top='10'/>orge👋
-
+[comment]: <> (# Hello! I'm <img src='Resources/Ge_keys.gif' width='37' margin-top='10'>orge👋)
 I'm a passionate and creative computer science student at UPenn. I love coding, building cool projects, and exploring new technologies.
 
 Otherwise, I'm...
